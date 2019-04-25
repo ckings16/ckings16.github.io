@@ -1,0 +1,35 @@
+body {
+  text-align: left;
+  background-image: url(../images/background_image.png);
+  color: black;
+  font-family: Roboto;
+}
+
+h3 {
+	font-size: 20px;
+	font-family: Roboto;
+	font-weight: bolder;
+}
+
+h1 {
+	font-size: 60px;
+	font-family: Roboto;
+	font-weight: lighter;
+	margin-top: 5px;
+	margin-bottom: 30px;
+}
+
+h2 {
+	font-size: 35px;
+	font-family: Roboto;
+	font-weight: lighter;
+	margin-top: -35px;
+	margin-bottom: 30px;
+}
+
+#Copyright {
+	font-family: Roboto;
+	font-weight: lighter;
+	font-style: italic;
+}
+
