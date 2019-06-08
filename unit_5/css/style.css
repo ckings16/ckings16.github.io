@@ -36,6 +36,9 @@ h2 {
 
 .work-item {
 	margin-bottom: 22px;
+	background-color: #FFE2B8;
+    border: 1px black solid;
+    padding: 20px;
 
 }
 
