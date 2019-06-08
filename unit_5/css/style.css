@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway&display=swap');
+
+body {
+  text-align: left;
+  background-image: url(../images/background_image.png);
+  color: black;
+	font-family: 'Raleway', sans-serif;
+}
+
+h3 {
+	font-size: 20px;
+	font-family: 'Raleway', sans-serif;
+	font-weight: bolder;
+}
+
+h1 {
+	font-size: 60px;
+	font-family: 'Raleway', sans-serif;
+	margin-top: 5px;
+	margin-bottom: 30px;
+}
+
+h2 {
+	font-size: 35px;
+	font-family: 'Raleway', sans-serif;
+	font-weight: lighter;
+	margin-top: -35px;
+	margin-bottom: 30px;
+}
+
+#Copyright {
+	font-family: 'Raleway', sans-serif;
+	font-weight: lighter;
+	font-style: italic;
+}
+
+.work-item {
+	margin-bottom: 22px;
+
+}
+
+.work-item .work-image {
+	width: 220px;
+	height: 220px;
+	margin: 0px;
+
+}
+
+.work-item .work-title {
+	text-transform: uppercase;
+	margin-top: 6px;
+	margin-bottom: 4px;
+}
+
+.work-item .work-text{
+	margin: 0px;
+}
+
+header {
+    background-color: #FFED74;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+main {
+    background-color: #E89C6C;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+footer {
+    background-color: #FF957E;
+    border: 1px black solid;
+    padding: 20px;
+}
